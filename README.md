@@ -7,3 +7,4 @@ Installed ***Extension: LeetCode*** on my VS code.
 
 ## TO BE FIGURE OUT:
 * 686.repeated-string-match
+* 772.Basic Calculator III
